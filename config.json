@@ -1,0 +1,6 @@
+{
+    "env":{
+        "JWT_KEY" : "mbtest"
+    },
+    "port": 2323
+}
